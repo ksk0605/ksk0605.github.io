@@ -1,7 +1,7 @@
 ---
 title: "AI 코드의 품질은 프롬프트보다 환경에서 결정된다"
 description: "Lauren Tan의 「All Code Is Slop (Except Mine)」 화면 해설과 실무 적용"
-date: 2026-11-17 10:10:00 +0900
+date: 2026-11-17 09:30:00 +0900
 categories: [영상 정리, AI 개발]
 tags: [ai-engineer, coding-agent, code-quality, lauren-tan]
 image:
