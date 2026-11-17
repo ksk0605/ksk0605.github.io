@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 김성겸의 블로그
+title: 겸사겸사
 
-tagline: 보고 배운 것을 정리합니다
+tagline: 배운 김에, 정리하는 김에
 
 description: >- # used by seo meta and the atom feed
-  김성겸이 보고 배운 것을 정리하는 블로그
+  겸사겸사 — 김성겸이 보고 배운 것을 정리하는 블로그
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
